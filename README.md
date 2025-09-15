@@ -18,11 +18,11 @@ Occupation trends – Analyzing which professional groups purchase the most.
 
 Product category analysis – Identifying high-selling product categories and customer preferences.
 
-## The findings provide data-driven insights for businesses to design effective campaigns, optimize inventory, and personalize offers during festive sales.
+** The findings provide data-driven insights for businesses to design effective campaigns, optimize inventory, and personalize offers during festive sales.
 
 ## Exploratory Data Analysis (EDA)
 
-## To understand the dataset before detailed analysis, the following EDA steps were performed:
+To understand the dataset before detailed analysis, the following EDA steps were performed:
 
 ## Dataset Overview
 
